@@ -19,6 +19,4 @@ A simple two-player dice game built with vanilla JavaScript, HTML, and CSS.
 
 Open `index.html` in your browser, or serve it with a local dev server (e.g. VS Code Live Server).
 
-## Live Demo
-
-_Add your deployed link here (e.g. GitHub Pages, Netlify)._
+![Pig Game screenshot](screenshot.png)
